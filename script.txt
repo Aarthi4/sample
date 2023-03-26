@@ -1,0 +1,6 @@
+str1=a1
+str2=a2
+echo $str1 $str2
+str3=$str1+$str2
+str3+="is formula"
+echo $str3
